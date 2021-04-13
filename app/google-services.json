@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121792697544",
+    "project_id": "kvizznanjaandroid",
+    "storage_bucket": "kvizznanjaandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121792697544:android:05c6c2ba2e3504982701fd",
+        "android_client_info": {
+          "package_name": "com.example.kvizandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121792697544-jbj9u9sj0cogtlvr040glfv5vusbjgqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAliRBMnAzLK5TB1-7bZC9Q48jbZuOHEf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121792697544-jbj9u9sj0cogtlvr040glfv5vusbjgqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
